@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/icon/abyss</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="16" cy="15" r="15"></circle>
+        <filter x="-5.8%" y="-4.2%" width="111.7%" height="111.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/abyss" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Oval" fill-rule="nonzero">
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+            <use fill="#3886EF" xlink:href="#path-2"></use>
+            <use fill="url(#linearGradient-1)" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
+            <circle stroke-opacity="0.0970052083" stroke="#000000" stroke-width="1" stroke-linejoin="square" cx="16" cy="15" r="14.5"></circle>
+        </g>
+        <path d="M25.7790125,18.8134974 C26.1547171,19.4575625 26.1547171,20.2358079 25.7790125,20.879873 L24.1420137,18.0352521 L20.7875079,12.158158 L17.2719859,6.06637555 L15.9301836,8.37427551 L12.8708743,13.6609766 L11.2338755,16.5055975 L10.5629744,17.6595474 C10.4556302,17.8205637 10.4824662,17.8473998 10.32145,17.8742358 C10.2141058,17.8742358 10.1067616,17.8742358 9.99941742,17.8742358 L9.24800813,17.8742358 L10.8850069,15.0027789 L14.0248243,9.55506153 L17.0572975,4.29519651 C17.7550347,4.67090115 18.0770673,5.47598253 18.4527719,6.12004764 L19.2310173,7.46184994 L22.1829823,12.5606987 L25.7790125,18.8134974 Z M24.8129148,21.2555776 L25.0276032,21.6849543 C24.329866,22.1143311 23.4174404,21.9801509 22.6123591,21.9801509 L8.36241861,21.9801509 C7.53050118,21.9801509 6.77909189,21.7117904 6.32287911,20.9603811 L23.4442765,20.9603811 L22.1293102,18.6524811 L19.070001,13.338944 L17.4330022,10.4943231 L16.762101,9.34037316 C16.6547568,9.17935689 16.6279208,9.17935689 16.6815929,9.01834061 C16.735265,8.93783247 16.7889371,8.83048829 16.8426092,8.74998015 L17.2183138,8.10591505 L18.8016405,10.8163557 L21.7536056,15.9420405 L24.8129148,21.2555776 Z M6.85960003,19.8869393 L6.85960003,19.8601032 L6.00084656,19.8601032 C5.97401051,19.0281858 6.59123957,18.2499405 6.99378026,17.5522033 L7.69151746,16.3177451 L10.911843,10.7626836 L13.3002511,6.62993251 C13.9443162,5.52965462 14.5078732,4 16.0106917,4 L14.3736929,6.84462088 L10.9655151,12.7753871 L7.44999304,18.8671695 L20.7875079,18.8671695 C20.9753603,18.8671695 21.0021963,18.8403335 21.1095405,18.9745137 C21.1632126,19.0550218 21.2168847,19.162366 21.2705568,19.2428742 L21.6462614,19.8869393 L6.85960003,19.8869393 Z M18.9089847,17.8742358 L18.9089847,17.8473998 L11.6095802,17.8473998 L12.4414976,16.3982533 L16.0375278,10.1454545 L16.8962813,11.594601 L20.4923114,17.8742358 L18.9089847,17.8742358 Z M13.5417755,16.5055975 L13.3807592,16.82763 L18.7479684,16.82763 L18.1844115,15.8615324 L16.0375278,12.2118301 L13.5417755,16.5055975 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>
