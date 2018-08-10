@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
-    <title>svg/icon/npxs</title>
+    <title>svg/icon/gsc</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
@@ -15,21 +15,21 @@
             <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
-        <path d="M14.9669687,11.3955 L12.3955,13.9666875 L7,8.57146875 L9.57146875,6 L14.9669687,11.3955 Z M16.0070313,12.4212188 L18.5790625,14.9924063 L18.5714687,15 L18.5787812,15.0073125 L16.00675,17.5782188 L16,17.5711875 L15.9929687,17.5785 L13.4209375,15.0075938 L13.4285312,15 L13.4206563,14.992125 L15.9926875,12.4209375 L16,12.4285313 L16.0070313,12.4212188 Z M19.6042187,13.96725 L17.0324687,11.3960625 L22.4285312,6 L25,8.57146875 L19.6042187,13.96725 Z M12.3955,16.0330313 L14.9669687,18.6042187 L9.57146875,24 L7,21.4285312 L12.3955,16.0330313 Z M17.0324687,18.6036563 L19.6042187,16.03275 L25,21.4285312 L22.4285312,24 L17.0324687,18.6036563 Z" id="path-4"></path>
+        <path d="M24.296875,11.484375 L20.2890625,11.484375 L16,11.484375 C14.059375,11.484375 12.484375,13.059375 12.484375,15 C12.484375,16.940625 14.059375,18.515625 16,18.515625 C17.51875,18.515625 18.7984375,17.559375 19.290625,16.2234375 L16,16.2234375 C15.4796875,16.2234375 15.071875,15.8015625 15.071875,15.2953125 L15.071875,15.1828125 C15.071875,14.6625 15.49375,14.2546875 16,14.2546875 L19.43125,14.2546875 C19.43125,14.2546875 19.43125,14.2546875 19.43125,14.2546875 L21.484375,14.2546875 C21.5265625,14.5078125 21.540625,14.7609375 21.540625,15.028125 C21.540625,18.09375 19.0515625,20.56875 16,20.56875 C12.9484375,20.56875 10.459375,18.065625 10.459375,15 C10.459375,11.934375 12.9484375,9.459375 16,9.459375 L16.16875,9.43125 C16.2109375,9.4453125 16.2390625,9.459375 16.28125,9.459375 C16.8578125,9.459375 20.7109375,9.459375 21.203125,9.459375 C23.8890625,9.459375 24.9859375,8.025 24.9859375,6 L16,6 C11.0359375,6 7,10.0359375 7,15 C7,19.9640625 11.0359375,24 16,24 C20.95,24 24.971875,19.9921875 25,15.0421875 L25,12.2015625 C25,11.8078125 24.690625,11.484375 24.296875,11.484375 Z" id="path-4"></path>
         <filter x="-9.7%" y="-6.9%" width="119.4%" height="119.4%" filterUnits="objectBoundingBox" id="filter-5">
             <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
     </defs>
-    <g id="icon/npxs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="icon/gsc" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Oval" fill-rule="nonzero">
             <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
-            <use fill="#F9D91F" xlink:href="#path-2"></use>
+            <use fill="#FD1597" xlink:href="#path-2"></use>
             <use fill="url(#linearGradient-1)" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
             <circle stroke-opacity="0.0970052083" stroke="#000000" stroke-width="1" stroke-linejoin="square" cx="16" cy="15" r="14.5"></circle>
         </g>
-        <g id="Combined-Shape">
+        <g id="Shape">
             <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
             <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
         </g>
