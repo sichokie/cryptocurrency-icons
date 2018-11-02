@@ -15,6 +15,12 @@
             <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
+        <path d="M12.8704191,18.1295809 L12.8704191,12.4147038 L18.5852962,12.4147038 L18.5852962,18.1295809 L12.8704191,18.1295809 Z M7.00448032,24 L7.00448032,20.928738 L10.071262,20.928738 L10.071262,24 L7.00448032,24 Z M7,6 L24.9999253,6 L24.9999253,24 L13.1425241,24 L13.1425241,20.928738 L21.3843786,20.928738 L21.3843786,9.61554672 L10.071262,9.61554672 L10.071262,17.8574012 L7,17.8574012 L7,6 Z" id="path-4"></path>
+        <filter x="-9.7%" y="-6.9%" width="119.4%" height="119.4%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
     </defs>
     <g id="icon/pxg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Oval" fill-rule="nonzero">
@@ -23,6 +29,9 @@
             <use fill="url(#linearGradient-1)" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
             <circle stroke-opacity="0.0970052083" stroke="#000000" stroke-width="1" stroke-linejoin="square" cx="16" cy="15" r="14.5"></circle>
         </g>
-        <path d="M12.8704191,18.1295809 L12.8704191,12.4147038 L18.5852962,12.4147038 L18.5852962,18.1295809 L12.8704191,18.1295809 Z M7.00448032,24 L7.00448032,20.928738 L10.071262,20.928738 L10.071262,24 L7.00448032,24 Z M7,6 L24.9999253,6 L24.9999253,24 L13.1425241,24 L13.1425241,20.928738 L21.3843786,20.928738 L21.3843786,9.61554672 L10.071262,9.61554672 L10.071262,17.8574012 L7,17.8574012 L7,6 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+        <g id="Combined-Shape">
+            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+        </g>
     </g>
 </svg>
