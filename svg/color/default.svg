@@ -12,10 +12,10 @@
         </filter>
     </defs>
     <g id="color/default" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <circle id="Oval" fill="#D8D8D8" fill-rule="nonzero" cx="16" cy="16" r="16"></circle>
+        <circle id="Oval" fill="#0667D0" fill-rule="nonzero" cx="16" cy="16" r="16"></circle>
         <g id="Combined-Shape">
             <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
-            <use fill="#727272" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
         </g>
     </g>
 </svg>
