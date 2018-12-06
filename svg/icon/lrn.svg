@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/icon/lrn</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="16" cy="15" r="15"></circle>
+        <filter x="-5.8%" y="-4.2%" width="111.7%" height="111.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/lrn" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Oval" fill-rule="nonzero">
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+            <use fill="#47BA32" xlink:href="#path-2"></use>
+            <use fill="url(#linearGradient-1)" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
+            <circle stroke-opacity="0.0970052083" stroke="#000000" stroke-width="1" stroke-linejoin="square" cx="16" cy="15" r="14.5"></circle>
+        </g>
+        <path d="M12.7759004,25.9902179 L10.946643,25.9902179 L10.946643,21.5491329 L11.6216096,21.5491329 L11.6216096,25.3250333 L12.7759004,25.3250333 C12.7759004,25.3250333 12.7759004,25.9902179 12.7759004,25.9902179 Z M15.554024,25.9902179 L15.1431747,24.3174744 C15.1236105,24.3174744 15.1040462,24.3174744 15.084482,24.3174744 L14.693197,24.3174744 L14.693197,25.9902179 L14.0182303,25.9902179 L14.0182303,21.5491329 L15.0746999,21.5491329 C15.4464206,21.5491329 15.7203201,21.6567363 15.8963984,21.862161 C16.0529124,22.0382392 16.1311694,22.2925745 16.1311694,22.6153846 L16.1311694,23.2610049 C16.1311694,23.5740329 16.0137839,23.8381503 15.7692308,24.0631392 L16.2681192,26 L15.554024,26 L15.554024,25.9902179 Z M15.1138284,22.2240996 L14.7127612,22.2240996 L14.7127612,23.6425078 L15.1138284,23.6425078 C15.2214317,23.6425078 15.3094709,23.6033793 15.3877279,23.5251223 C15.4659849,23.4468653 15.4953313,23.3588261 15.4953313,23.2512228 L15.4953313,22.6056025 C15.4953313,22.3512672 15.3681636,22.2240996 15.1138284,22.2240996 Z M19.9755447,25.9902179 L19.2516674,25.9902179 L18.3321476,23.1436194 L18.3321476,25.9902179 L17.657181,25.9902179 L17.657181,21.5393508 L18.4104046,21.5393508 L19.300578,24.5326812 L19.300578,21.5393508 L19.9755447,21.5393508 L19.9755447,25.9902179 Z M15.2312139,18.4677635 L15.2605602,6.23032459 L10.2423299,14.5549133 L15.2312139,18.4677635 Z M21.1787461,14.5549133 L16.1507337,6.23032459 L16.18008,18.4677635 L21.1787461,14.5549133 Z M15.6714095,19.9546465 L9,14.613606 L15.6714095,4 L22.4112939,14.613606 L15.6714095,19.9546465 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>
