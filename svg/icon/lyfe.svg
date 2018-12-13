@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/icon/lyfe</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="16" cy="15" r="15"></circle>
+        <filter x="-5.8%" y="-4.2%" width="111.7%" height="111.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/lyfe" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Oval" fill-rule="nonzero">
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+            <use fill="#49AA94" xlink:href="#path-2"></use>
+            <use fill="url(#linearGradient-1)" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
+            <circle stroke-opacity="0.0970052083" stroke="#000000" stroke-width="1" stroke-linejoin="square" cx="16" cy="15" r="14.5"></circle>
+        </g>
+        <path d="M24.124622,23.124622 C26.2040931,21.0444275 27.4897773,18.1738217 27.4897773,15.0001206 C27.4897773,11.8264194 26.2040931,8.95557252 24.124622,6.87537802 C22.0444275,4.79590689 19.1738217,3.51022274 16.0001206,3.51022274 C12.8264194,3.51022274 9.95557252,4.79590689 7.87537802,6.87537802 C5.79590689,8.95557252 4.51022274,11.8264194 4.51022274,15.0001206 C4.51022274,18.1738217 5.79590689,21.0444275 7.87537802,23.124622 C9.95557252,25.2040931 12.8264194,26.4897773 16.0001206,26.4897773 C19.1738217,26.4897773 22.0444275,25.2040931 24.124622,23.124622 Z M24.4853466,6.51465343 C26.6566867,8.68551134 28.0002411,11.6870485 28,15.0001206 C28.0002411,18.3129515 26.6564456,21.3144887 24.4853466,23.4853466 C22.3144887,25.6564456 19.3129515,27.0002411 16.0001206,27 C12.6870485,27.0002411 9.68551134,25.6564456 7.51465343,23.4853466 C5.3435544,21.3144887 3.99975887,18.3129515 4,15.0001206 C3.99975887,11.6870485 5.3435544,8.68551134 7.51465343,6.51465343 C9.68551134,4.3435544 12.6870485,2.99975887 16.0001206,3 C19.3129515,2.99975887 22.3144887,4.3435544 24.4853466,6.51465343 Z M14.1564707,18.8525916 C14.4016959,18.8525916 14.7698954,18.7477018 15.1730582,18.6073664 L15.6111842,20.7982378 C15.1028905,21.0437041 14.5596335,21.3417359 13.5428049,21.3417359 C11.7198919,21.3417359 10.5104036,20.1146454 10.5104036,18.2917324 L10.5104036,7.58139512 L13.3149408,7.58139512 L13.3149408,18.0814705 C13.3149408,18.5371987 13.6479359,18.8525916 14.1564707,18.8525916 Z M21.6632072,11.6805381 L24.4665387,11.6805381 L19.2345855,23.7898888 L16.431254,23.7898888 L18.2404228,19.601288 L14.8506726,11.6805381 L17.6540042,11.6805381 L19.5933811,16.4560397 L21.6632072,11.6805381 Z" id="Combined-Shape" fill="#F2F1F0"></path>
+    </g>
+</svg>
