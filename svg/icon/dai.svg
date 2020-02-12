@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>svg/icon/dai</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="16" cy="15" r="15"></circle>
+        <filter x="-5.8%" y="-4.2%" width="111.7%" height="111.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/dai" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Oval" fill-rule="nonzero">
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+            <use fill="#FABF41" xlink:href="#path-2"></use>
+            <use fill="url(#linearGradient-1)" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
+            <circle stroke-opacity="0.0970052083" stroke="#000000" stroke-width="1" stroke-linejoin="square" cx="16" cy="15" r="14.5"></circle>
+        </g>
+        <path d="M28,11.94 L25.58,11.94 C25.3914286,11.4685714 25.1714286,10.9971429 24.92,10.5257143 C24.0714286,9.11142857 22.8771429,7.98 21.3685714,7.19428571 C19.86,6.40857143 18.1,6 16.12,6 L8.45142857,6 L8.45142857,6.06285714 L8.45142857,11.94 L6,11.94 L6,14.14 L8.45142857,14.14 L8.45142857,16.6542857 L6,16.6542857 L6,18.8542857 L8.45142857,18.8542857 L8.45142857,24.8257143 L16.12,24.8257143 C18.1,24.8257143 19.86,24.4171429 21.3685714,23.6314286 C22.8771429,22.8457143 24.0714286,21.7142857 24.92,20.3 C25.2028571,19.8285714 25.4228571,19.3571429 25.6114286,18.8542857 L28,18.8542857 L28,16.6542857 L26.1142857,16.6542857 C26.1457143,16.2457143 26.1771429,15.8371429 26.1771429,15.4285714 C26.1771429,14.9885714 26.1457143,14.58 26.1142857,14.14 L28,14.14 L28,11.94 L28,11.94 Z M10.5885714,7.88571429 L16.0257143,7.88571429 C17.66,7.88571429 19.0742857,8.2 20.2685714,8.86 C21.4942857,9.48857143 22.4057143,10.4 23.0971429,11.5314286 C23.1914286,11.6885714 23.2542857,11.8142857 23.3485714,11.9714286 L10.5885714,11.9714286 L10.5885714,7.88571429 Z M23.0971429,19.3257143 C22.4371429,20.4571429 21.4942857,21.3371429 20.2685714,21.9971429 C19.0428571,22.6257143 17.6285714,22.9714286 16.0257143,22.9714286 L10.5885714,22.9714286 L10.5885714,18.8542857 L23.3485714,18.8542857 C23.2542857,19.0114286 23.1914286,19.1685714 23.0971429,19.3257143 Z M24.1028571,15.4285714 C24.1028571,15.8685714 24.0714286,16.2771429 24.0085714,16.6542857 L10.5885714,16.6542857 L10.5885714,14.14 L24.0085714,14.14 C24.0714286,14.5485714 24.1028571,14.9885714 24.1028571,15.4285714 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>
